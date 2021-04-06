@@ -1,0 +1,14 @@
+.container{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+flex-grow: 1;
+flex-basis: 50px
+}
+.container p{
+font-family: font-family: 'Markazi Text', serif;
+font-weight: lighter;
+}
+.containe li{
+list-style: none;
+}

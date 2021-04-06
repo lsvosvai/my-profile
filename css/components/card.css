@@ -1,0 +1,6 @@
+.card{	
+}
+.card li{
+list-style: none;
+flex-wrap: wrap;
+}

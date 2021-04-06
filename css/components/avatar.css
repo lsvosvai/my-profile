@@ -1,0 +1,11 @@
+.avatar{
+background-image: url(../../images/laptop.png);
+color: white;
+background-size: cover;
+background-position: center;
+text-align: center;
+margin: 0px;
+}
+.avatar h4{
+font-weight: lighter;
+}
